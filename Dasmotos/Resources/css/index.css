@@ -1,0 +1,53 @@
+.header {
+  text-align: center;
+  width: 100%;
+  height: 220px;
+  overflow: hidden;
+  position: relative
+}
+
+.imageContainer {
+  position: absolute
+}
+
+.headerTextContainer {
+ width: 100%;
+ height: 100%;
+ position: absolute;
+ text-align: center;
+}
+
+.headerText {
+  font-size: 100px;
+  font-family: helvetica;
+  color: khaki;
+  font-weight: bold;
+  vertical-align: middle;
+  word-wrap: break-word;
+  ;
+}
+
+.Brushescontainer {
+  background-color: mediumspringgreen;
+}
+
+h2 {
+  font-size: 32px;
+  font-family: helvetica;
+  color: white;
+  font-weight: bold;
+}
+
+.bluetext {
+  font-family: helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+.Framescontainer {
+  background-color: lightcoral;
+}
+
+.Paintcontainer {
+  background-color: skyblue;
+}
